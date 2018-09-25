@@ -127,4 +127,7 @@ Start the app
 ```shell
 python bot.py
 ```
+## Creative Implementation
+
+[Smart Mirror](https://github.com/akshaybahadur21/Smart_Mirror) by [Raghav Patnecha](https://raghavpatnecha.github.io/) and [Akshay Bahadur](http://akshaybahadur.com/)
  
